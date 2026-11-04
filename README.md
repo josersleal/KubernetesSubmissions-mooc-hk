@@ -1,5 +1,5 @@
 # KubernetesSubmissions
-
+Make sure that the repository is available to the GitHub user mattiluukkainen. We
 ## Exercises
 
 ### Chapter 2
